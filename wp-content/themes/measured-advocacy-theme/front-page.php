@@ -19,8 +19,8 @@ $hero_img_mobile = 'ar' === $locale ? 'hero/img-001-hero-ar-mobile.jpg' : 'hero/
 <source media="(max-width: 768px)" srcset="<?php echo esc_url(ma_img($hero_img_mobile)); ?>" width="1600" height="2000">
 <img src="<?php echo esc_url(ma_img($hero_img)); ?>" alt="Senior counsel standing beside a boardroom window, prepared and present" width="2400" height="1600" fetchpriority="high" class="hero__bg-img">
 </picture>
-<div class="hero__overlay"></div>
 </div>
+<div class="hero__overlay"></div>
 <div class="hero__inner container">
 <div class="hero__content">
 <p class="hero__kicker small"><?php echo esc_html(__('Senior Counsel for Consequential Matters', 'measured-advocacy')); ?></p>

@@ -85,13 +85,13 @@
         // Deselect siblings
         const siblings = btn.parentElement.querySelectorAll('.lens-option');
         siblings.forEach(function(sib) {
-          sib.classList.remove('lens-option--active');
-          sib.setAttribute('aria-checked', 'false');
+          sib.classList.remove('is-selected');
+          sib.setAttribute('aria-pressed', 'false');
         });
 
         // Select this
-        btn.classList.add('lens-option--active');
-        btn.setAttribute('aria-checked', 'true');
+        btn.classList.add('is-selected');
+        btn.setAttribute('aria-pressed', 'true');
 
         // Update state
         state[dimension] = value;
