@@ -1,0 +1,40 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "wpm/language-switcher",
+	"version": "1.0.0",
+	"title": "Language Switcher",
+	"category": "widgets",
+	"icon": "translation",
+	"description": "Display a language switcher for multilingual navigation.",
+	"keywords": ["language", "switcher", "multilingual", "translation"],
+	"supports": {
+		"html": false,
+		"align": ["left", "center", "right"]
+	},
+	"attributes": {
+		"type": {
+			"type": "string",
+			"default": "list"
+		},
+		"showFlags": {
+			"type": "boolean",
+			"default": true
+		},
+		"showNames": {
+			"type": "boolean",
+			"default": true
+		},
+		"showNativeNames": {
+			"type": "boolean",
+			"default": false
+		},
+		"onlyWithTranslations": {
+			"type": "boolean",
+			"default": false
+		}
+	},
+	"textdomain": "wp-multilingual",
+	"editorScript": "wpm-block-edit",
+	"style": "wpm-public-css"
+}

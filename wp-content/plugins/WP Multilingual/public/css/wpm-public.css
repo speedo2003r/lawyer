@@ -1,0 +1,67 @@
+/**
+ * WP Multilingual Public Switcher Styles
+ */
+
+.wpm-language-switcher {
+	margin: 10px 0;
+}
+
+.wpm-language-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	align-items: center;
+}
+
+.wpm-lang-item {
+	display: inline-flex;
+	align-items: center;
+	font-size: 14px;
+}
+
+.wpm-lang-item a {
+	text-decoration: none;
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	color: inherit;
+	padding: 4px 8px;
+	border-radius: 4px;
+	transition: background-color 0.2s ease;
+}
+
+.wpm-lang-item a:hover {
+	background-color: rgba(0, 0, 0, 0.05);
+}
+
+.wpm-lang-item.wpm-active span.wpm-lang-current {
+	font-weight: bold;
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	padding: 4px 8px;
+	border-radius: 4px;
+	background-color: rgba(0, 0, 0, 0.08);
+}
+
+.wpm-switcher-flag {
+	font-size: 1.15em;
+	line-height: 1;
+}
+
+.wpm-switcher-dropdown-wrap select {
+	padding: 6px 12px;
+	font-size: 14px;
+	border-radius: 4px;
+	border: 1px solid #ccc;
+	background-color: #fff;
+	cursor: pointer;
+}
+
+/* RTL layout support */
+[dir="rtl"] .wpm-language-list {
+	direction: rtl;
+}

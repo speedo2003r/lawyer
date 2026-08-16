@@ -1,0 +1,161 @@
+/**
+ * WP Multilingual Admin Styles
+ */
+
+.wpm-admin-wrap {
+	margin-top: 20px;
+}
+
+.wpm-columns {
+	display: flex;
+	gap: 20px;
+	margin-top: 15px;
+}
+
+@media (max-width: 960px) {
+	.wpm-columns {
+		flex-direction: column;
+	}
+}
+
+.wpm-column-form {
+	flex: 0 0 360px;
+}
+
+.wpm-column-list {
+	flex: 1;
+}
+
+.wpm-card {
+	background: #fff;
+	border: 1px solid #ccd0d4;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	padding: 20px;
+	border-radius: 4px;
+	margin-bottom: 20px;
+}
+
+.wpm-card h2 {
+	margin-top: 0;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #eee;
+	font-size: 1.3em;
+}
+
+.wpm-form-group {
+	margin-bottom: 15px;
+}
+
+.wpm-form-group label {
+	display: block;
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+
+.wpm-form-group input[type="text"],
+.wpm-form-group select {
+	width: 100%;
+}
+
+.wpm-badge {
+	display: inline-block;
+	padding: 2px 8px;
+	border-radius: 3px;
+	font-size: 11px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.wpm-badge-ltr {
+	background: #e2e8f0;
+	color: #475569;
+}
+
+.wpm-badge-rtl {
+	background: #fee2e2;
+	color: #991b1b;
+}
+
+.wpm-badge-translated {
+	background: #dcfce7;
+	color: #166534;
+}
+
+.wpm-badge-draft {
+	background: #fef9c3;
+	color: #854d0e;
+}
+
+.wpm-badge-needs_update {
+	background: #ffedd5;
+	color: #9a3412;
+}
+
+.wpm-badge-empty {
+	background: #f1f5f9;
+	color: #94a3b8;
+}
+
+.wpm-status-active {
+	color: #16a34a;
+	font-weight: 600;
+}
+
+.wpm-status-disabled {
+	color: #94a3b8;
+}
+
+.wpm-flag-display {
+	font-size: 1.3em;
+}
+
+/* Post list columns */
+.wpm-column-lang-badge {
+	display: inline-block;
+	padding: 2px 6px;
+	background: #f0f4f8;
+	border: 1px solid #d9e2ec;
+	border-radius: 4px;
+	font-weight: 600;
+	font-size: 12px;
+}
+
+.wpm-column-translations {
+	display: flex;
+	gap: 6px;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.wpm-trans-icon {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 2px 5px;
+	border-radius: 3px;
+	text-decoration: none;
+	background: #f8fafc;
+	border: 1px solid #e2e8f0;
+	cursor: pointer;
+	font-size: 12px;
+}
+
+.wpm-trans-exists:hover {
+	background: #e0f2fe;
+	border-color: #7dd3fc;
+}
+
+.wpm-trans-add {
+	background: transparent;
+	border: 1px dashed #cbd5e1;
+}
+
+.wpm-trans-add:hover {
+	border-color: #0284c7;
+	color: #0284c7;
+}
+
+.wpm-loading {
+	opacity: 0.6;
+	pointer-events: none;
+}

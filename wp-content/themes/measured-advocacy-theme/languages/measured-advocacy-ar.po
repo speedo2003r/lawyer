@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Measured Advocacy 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+
+msgid "8 min read"
+msgstr "8 دقائق للقراءة"
+
+msgid "5 min read"
+msgstr "5 دقائق للقراءة"
+
+msgid "A dispute or claim has emerged"
+msgstr "نشوء نزاع تجاري أو مطالبة قضائية"
+
+msgid "About the firm"
+msgstr "عن المكتب"
+
+msgid "About"
+msgstr "من نحن"
+
+msgid "Accessibility"
+msgstr "إمكانية الوصول"
+
+msgid "Activate the WP Multilingual plugin before running the demo seeder."
+msgstr "يرجى تفعيل إضافة WP Multilingual قبل تشغيل منشئ المحتوى التجريبي."
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Admissions"
+msgstr "الترخيص والقيد القضائي"
+
+msgid "All rights reserved."
+msgstr "جميع الحقوق محفوظة."
+
+msgid "Attorneys"
+msgstr "المحامون"
+
+msgid "Attorney"
+msgstr "محامٍ"
+
+msgid "Our Attorneys"
+msgstr "المحامون والمستشارون"
+
+msgid "Archive"
+msgstr "الأرشيف"
+
+msgid "Browse archived content."
+msgstr "تصفح المحتوى المؤرشف."
+
+msgid "No content found in this archive."
+msgstr "لم يتم العثور على محتوى في هذا الأرشيف."
+
+msgid "Call Us"
+msgstr "اتصل بنا"
+
+msgid "Close"
+msgstr "إغلاق"
+
+msgid "Commercial relationships"
+msgstr "العلاقات والتحالفات التجارية"
+
+msgid "Comply with new requirements"
+msgstr "الامتثال للمتطلبات التنظيمية الجديدة"
+
+msgid "Confidentiality Caveat"
+msgstr "تنويه السرية والخصوصية"
+
+msgid "Contact"
+msgstr "تواصل معنا"
+
+msgid "Contact Us"
+msgstr "تواصل معنا"
+
+msgid "Contact Details & Directions"
+msgstr "بيانات الاتصال والعنوان"
+
+msgid "Counsel Contribution"
+msgstr "مساهمة المستشارين"
+
+msgid "Counsel Heading"
+msgstr "عنوان المشورة"
+
+msgid "Counsel Body"
+msgstr "تفاصيل المشورة"
+
+msgid "Decision Body"
+msgstr "تفاصيل القرار"
+
+msgid "Decision Heading"
+msgstr "عنوان القرار"
+
+msgid "Decision Note"
+msgstr "مذكرة قرار"
+
+msgid "Demo Content Seeder"
+msgstr "منشئ المحتوى التجريبي"
+
+msgid "Discuss a new matter"
+msgstr "استشر في قضية جديدة"
+
+msgid "Discuss a similar matter"
+msgstr "استشر في قضية مماثلة"
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgid "Every matter"
+msgstr "كل قضية"
+
+msgid "deserves a clear"
+msgstr "تستحق إطاراً واضحاً"
+
+msgid "frame of reference."
+msgstr "ومعايير دقيقة للمرجعية."
+
+msgid "Existing content is never deleted. Re-running refreshes seeded content."
+msgstr "لا يتم حذف المحتوى الموجود أبداً. إعادة التشغيل تحدث المحتوى التجريبي."
+
+msgid "Experience"
+msgstr "القضايا والخبرات"
+
+msgid "Expertise"
+msgstr "مجالات الممارسة"
+
+msgid "Explore corporate expertise"
+msgstr "استكشف الاستشارات المؤسسية"
+
+msgid "Exposure Body"
+msgstr "تفاصيل المخاطر"
+
+msgid "Exposure Heading"
+msgstr "عنوان المخاطر"
+
+msgid "Financial position or assets"
+msgstr "المركز المالي والأصول الاستثمارية"
+
+msgid "Finished: %1$d created, %2$d updated, %3$d preserved."
+msgstr "تم الانتهاء: تم إنشاء %1$d، وتحديث %2$d، والحفاظ على %3$d."
+
+msgid "Firm Details"
+msgstr "بيانات المكتب"
+
+msgid "Firm Name"
+msgstr "اسم المكتب"
+
+msgid "Focus"
+msgstr "مجالات التركيز"
+
+msgid "Footer Navigation"
+msgstr "قائمة التذييل"
+
+msgid "Frame Your Matter"
+msgstr "أطّر موقفك القانوني"
+
+msgid "Frame your matter"
+msgstr "أطّر موقفك القانوني"
+
+msgid "Home"
+msgstr "الرئيسية"
+
+msgid "How We Work"
+msgstr "منهج عملنا"
+
+msgid "Insight"
+msgstr "رؤية قانونية"
+
+msgid "Insight Type"
+msgstr "نوع المذكرة"
+
+msgid "Insights"
+msgstr "الرؤى القانونية"
+
+msgid "Legal Analysis & Thought Leadership"
+msgstr "تحليلات قانونية ورؤى استراتيجية"
+
+msgid "Install sample data"
+msgstr "تثبيت البيانات التجريبية"
+
+msgid "Jurisdiction"
+msgstr "الاختصاص القضائي"
+
+msgid "Jurisdictions"
+msgstr "الاختصاصات القضائية"
+
+msgid "Languages"
+msgstr "اللغات"
+
+msgid "Legal documents and regulatory references on desk"
+msgstr "وثائق قانونية ومراجع تنظيمية"
+
+msgid "Legal Entity"
+msgstr "الصفة والكيان القانوني"
+
+msgid "Legal Notice"
+msgstr "الإشعار القانوني"
+
+msgid "Managing partner, formal portrait"
+msgstr "الشريك المدير، صورة رسمية"
+
+msgid "Managing Partner"
+msgstr "الشريك المدير"
+
+msgid "Matter dimensions"
+msgstr "أبعاد ومحددات الموقف"
+
+msgid "Measured Advocacy Demo Content"
+msgstr "المحتوى التجريبي لمكتب المحاماة"
+
+msgid "Measured Advocacy Details"
+msgstr "تفاصيل المكتب"
+
+msgid "Menu"
+msgstr "القائمة"
+
+msgid "Missing source item for translation: %s"
+msgstr "عنصر الأصل مفقود للترجمة: %s"
+
+msgid "Multiple"
+msgstr "متعدد"
+
+msgid "Negotiate or restructure"
+msgstr "التفاوض أو إعادة الهيكلة"
+
+msgid "Next →"
+msgstr "التالي ←"
+
+msgid "← Previous"
+msgstr "السابق →"
+
+msgid "No attorneys listed yet."
+msgstr "لم يتم إدراج محامين بعد."
+
+msgid "No practice areas defined yet."
+msgstr "لم يتم تحديد مجالات ممارسة بعد."
+
+msgid "No representative matters shared yet."
+msgstr "لم تتم مشاركة قضايا بعد."
+
+msgid "No insights published yet."
+msgstr "لم يتم نشر رؤى بعد."
+
+msgid "Office Hours"
+msgstr "ساعات العمل"
+
+msgid "Our practice covers corporate advisory, dispute resolution, property and construction, employment, family law, and criminal defense - each led by practitioners with verifiable credentials and direct case involvement."
+msgstr "تغطي ممارستنا الاستشارات المؤسسية، تسوية النزاعات، العقارات والإنشاءات، حوكمة العمل، قانون الأسرة، والدفاع في الجرائم المالية - يقود كلاً منها ممارسون ذوو كفاءة موثقة وتولٍّ مباشر للقضايا."
+
+msgid "Page Not Found"
+msgstr "الصفحة غير موجودة"
+
+msgid "People"
+msgstr "المحامون"
+
+msgid "Personal or family circumstances"
+msgstr "شؤون عائلية أو ظروف شخصية"
+
+msgid "Personal rights or freedom"
+msgstr "حقوق شخصية أو حريات نظامية"
+
+msgid "Phone"
+msgstr "الهاتف"
+
+msgid "Plan or structure proactively"
+msgstr "التخطيط والهيكلة الاستباقية"
+
+msgid "Practice Areas"
+msgstr "مجالات الممارسة"
+
+msgid "Practice Area"
+msgstr "مجال الممارسة"
+
+msgid "Practice Group Label"
+msgstr "تصنيف مجموعة الممارسة"
+
+msgid "Practice Groups"
+msgstr "مجموعات الممارسة"
+
+msgid "Practice Group"
+msgstr "مجموعة الممارسة"
+
+msgid "Primary Navigation"
+msgstr "القائمة الرئيسية"
+
+msgid "Privacy"
+msgstr "الخصوصية"
+
+msgid "Property or asset decisions"
+msgstr "قرارات الأصول والمشاريع العقارية"
+
+msgid "Protect or defend a position"
+msgstr "حماية المركز القانوني أو الدفاع"
+
+msgid "Public Email"
+msgstr "البريد الإلكتروني العام"
+
+msgid "Public Phone"
+msgstr "الهاتف العام"
+
+msgid "Reach the office"
+msgstr "تواصل مع المكتب"
+
+msgid "Read the full note"
+msgstr "اقرأ المذكرة كاملة"
+
+msgid "Read more →"
+msgstr "قراءة المزيد ←"
+
+msgid "Reading Time"
+msgstr "وقت القراءة"
+
+msgid "Record Label"
+msgstr "سجل الأعمال"
+
+msgid "Regulatory environment"
+msgstr "البيئة واللوائح التنظيمية"
+
+msgid "Representative Contribution"
+msgstr "المساهمة القانونية"
+
+msgid "Representative Matters"
+msgstr "القضايا والخبرات"
+
+msgid "Representative Matter"
+msgstr "قضية وخبرة"
+
+msgid "Reputation or standing"
+msgstr "السمعة والمكانة المؤسسية"
+
+msgid "Request a Consultation"
+msgstr "طلب استشارة"
+
+msgid "Request Consultation"
+msgstr "طلب استشارة"
+
+msgid "Resolve a dispute"
+msgstr "تسوية نزاع قضائي أو تجاري"
+
+msgid "Restructuring a family-held enterprise under regulatory pressure"
+msgstr "إعادة هيكلة شركة عائلية تحت ضغط تنظيمي"
+
+msgid "Return Home"
+msgstr "العودة للرئيسية"
+
+msgid "Role"
+msgstr "المسمى الوظيفي"
+
+msgid "Scope Caveat"
+msgstr "نطاق المسؤولية"
+
+msgid "Sector"
+msgstr "القطاع"
+
+msgid "Sector:"
+msgstr "القطاع:"
+
+msgid "Seed Demo Content"
+msgstr "توليد المحتوى التجريبي"
+
+msgid "Senior Counsel for Consequential Matters"
+msgstr "استشارات رفيعة المستوى للقرارات المصيرية"
+
+msgid "Senior counsel in strategic working session"
+msgstr "مستشارون في جلسة عمل استراتيجية"
+
+msgid "Senior legal counsel across corporate, litigation, property, employment, family law, criminal defense, and intellectual property matters."
+msgstr "مشورة قانونية متقدمة في شؤون الشركات، التقاضي، العقارات، العمل، قانون الأسرة، والدفاع الجنائي والملكية الفكرية."
+
+msgid "Senior counsel with verifiable credentials, direct case involvement, and demonstrated expertise in their respective practice areas."
+msgstr "مستشارون ذوو كفاءة موثقة، وتولٍّ مباشر للملفات، وخبرة مشهودة في مجالات ممارستهم."
+
+msgid "Selected engagements that demonstrate the scope and nature of counsel provided, within ethical and confidentiality boundaries."
+msgstr "مشاركات مختارة توضح نطاق وطبيعة المشورة المقدمة، ضمن حدود السرية والالتزام المهني."
+
+msgid "Show Relevant Expertise"
+msgstr "عرض الخبرات المطابقة"
+
+msgid "Skip to main content"
+msgstr "الانتقال إلى المحتوى الرئيسي"
+
+msgid "Specific credentials and case involvement details are subject to verification and ethical disclosure requirements."
+msgstr "تخضع المؤهلات وتفاصيل القضايا للتحقق ومتطلبات الإفصاح المهني والأخلاقي."
+
+msgid "the counsel must be decisive."
+msgstr "يجب أن تكون المشورة حاسمة ومحكمة."
+
+msgid "The Challenge"
+msgstr "التحدي القائم"
+
+msgid "The Counsel"
+msgstr "المشورة القانونية"
+
+msgid "The Decision"
+msgstr "القرار المطلوب"
+
+msgid "The Exposure"
+msgstr "المخاطر والالتزامات"
+
+msgid "The page you are looking for does not exist or has been moved."
+msgstr "الصفحة التي تبحث عنها غير موجودة أو تم نقلها."
+
+msgid "Verified scope, demonstrated results"
+msgstr "نطاق موثق، ونتائج ملموسة"
+
+msgid "View all expertise"
+msgstr "عرض جميع مجالات الممارسة"
+
+msgid "View expertise →"
+msgstr "عرض تفاصيل الخبرة ←"
+
+msgid "View matter →"
+msgstr "عرض القضية ←"
+
+msgid "View profile"
+msgstr "عرض الملف التعريفي"
+
+msgid "View profile →"
+msgstr "عرض الملف الشخصي ←"
+
+msgid "We provide senior legal counsel for the decisions that shape businesses, protect interests, and resolve disputes that cannot afford ambiguity."
+msgstr "نقدم استشارات قانونية رفيعة المستوى للقرارات التي تصوغ مستقبل الأعمال، وتحمي المصالح، وتسوي النزاعات التي لا تحتمل الغموض."
+
+msgid "What decision is required"
+msgstr "ما القرار المطلوب اتخاذه؟"
+
+msgid "What decision is required?"
+msgstr "ما القرار المطلوب اتخاذه؟"
+
+msgid "What is changing"
+msgstr "ما الذي يتغير؟"
+
+msgid "What is changing?"
+msgstr "ما الذي يتغير؟"
+
+msgid "What is exposed"
+msgstr "ما المعرض للخطر؟"
+
+msgid "What is exposed?"
+msgstr "ما المعرض للخطر؟"
+
+msgid "When a decision"
+msgstr "عندما يكون القرار"
+
+msgid "Years of practice"
+msgstr "سنوات الخبرة والممارسة"
+
+msgid "You are not allowed to seed demo content."
+msgstr "غير مسموح لك بتوليد المحتوى التجريبي."
+
+msgid "You may have followed an outdated link, or the page may have been removed."
+msgstr "ربما اتبعت رابطاً قديماً، أو ربما تمت إزالة الصفحة."
+
+msgid "Citations & References"
+msgstr "المراجع والمستندات"
+
+msgid "An overview of this section."
+msgstr "نظرة عامة على هذا القسم."
+
+msgid "Before legal terminology, there is a situation. Select what applies to help us surface the most relevant expertise, people, and experience."
+msgstr "قبل المصطلحات القانونية، هناك موقف قائم. حدد ما ينطبق لمساعدتنا في عرض الخبرات والمحامين والقضايا الأكثر صلة."
+
+msgid "Before prescribing a course of action, we define what is actually at stake. We frame the situation, identify exposure, and only then apply legal expertise to the decision that matters. This discipline shapes every engagement."
+msgstr "قبل تحديد أي مسار إجرائي، نحدد ما هو معرض للخطر فعلياً. نؤطر الموقف، ونقيس الالتزامات والمخاطر، ثم نطبق الخبرة القانونية على القرار المؤثر. هذا الانضباط هو أساس كل مهمة نتولاها."
+
+msgid "Current Thinking"
+msgstr "رؤى وأفكار معاصرة"
+
+msgid "Counsel reviewing position analysis during a strategy session — decisions are prepared through sustained attention, not improvised responses."
+msgstr "المستشارون أثناء جلسة تحليل استراتيجي — تُصنع القرارات من خلال التقييم المتأني والدقيق، وليس بردود الأفعال المرتجلة."
+
+msgid "Begin with a confidential consultation. We will listen to your situation, identify relevant expertise, and explain what counsel can offer before any commitment is required."
+msgstr "ابدأ بمحادثة سرية. سنستمع لموقفك القانوني، ونحدد الخبرات المناسبة، ونوضح ما يمكن للمشورة تقديمه قبل أي التزام رسمي."
+
+msgid "Corporate governance, mergers, regulatory compliance"
+msgstr "حوكمة الشركات، الاندماج والاستحواذ، والامتثال التنظيمي"
+
+msgid "If you face comparable circumstances, we can assess the application of relevant expertise to your situation."
+msgstr "إذا كنت تواجه ظروفاً مماثلة، يمكننا تقييم تطبيق الخبرات المناسبة على موقفك القانوني."
+
+msgid "Decision notes, jurisdictional analysis, and strategic counsel perspectives on matters that shape commercial and personal legal practice."
+msgstr "مذكرات قرار، تحليلات تنظيمية، ورؤى استشارية في المسائل المؤثرة في البيئة القانونية للأعمال."
+
+msgid "Business operations"
+msgstr "العمليات التشغيلية للأعمال"
+
+msgid "Business structure or ownership"
+msgstr "هيكل الأعمال أو الملكية"
+
+msgid "Challenge"
+msgstr "التحدي"
+
+msgid "Citations"
+msgstr "المراجع والمستندات"
+
+msgid "Could not read demo image: %s"
+msgstr "تعذر قراءة الصورة التجريبية: %s"
+
+msgid "Create linked English and Arabic content through WP Multilingual, plus menus, firm details, and all bundled demo images."
+msgstr "إنشاء محتوى مرتبط باللغتين العربية والإنجليزية، مع القوائم وبيانات المكتب والصور التجريبية المرفقة."
+
+msgid "Our practice covers corporate advisory, dispute resolution, property and construction, employment, family law, and criminal defense — each led by practitioners with verifiable credentials and direct case involvement."
+msgstr "تغطي ممارستنا الاستشارات المؤسسية، تسوية النزاعات، العقارات والإنشاءات، حوكمة العمل، قانون الأسرة، والدفاع في الجرائم المالية — يقود كلاً منها ممارسون ذوو كفاءة موثقة وتولٍّ مباشر للقضايا."
+
+msgid "Practice areas"
+msgstr "مجالات الممارسة"
+
+msgid "Sector: %s"
+msgstr "القطاع: %s"
+
+msgid "carries real consequence,"
+msgstr "يحمل أثراً ومسؤولية حقيقية،"
